@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ About Me (a.k.a the Legend ⚡)<br>	•	🧑‍💻 Professional bug creator & part-time bug fixer.<br>	•	🥱 Writes code that works on my machine™ but nowhere else.<br>	•	📚 Knows Java, but still Googles “Java syntax” daily.<br>	•	🕵️ Can find a missing semicolon faster than I can find my TV remote.<br>	•	🐧 Debugs by staring at the screen until the error gets scared and leaves.<br>	•	🎮 Believes git push --force is a personality trait.<br>	•	☕ Powered by coffee, Wi-Fi, and occasional Stack Overflow prayers.<br>	•	🚀 Dream: deploy something that doesn’t immediately crash.
+<br>	•	🧑‍💻 Professional bug creator & part-time bug fixer.<br>	•	🥱 Writes code that works on my machine™ but nowhere else.<br>	•	📚 Knows Java, but still Googles “Java syntax” daily.<br>	•	🕵️ Can find a missing semicolon faster than I can find my TV remote.<br>	•	🐧 Debugs by staring at the screen until the error gets scared and leaves.<br>	•	🎮 Believes git push --force is a personality trait.<br>	•	☕ Powered by coffee, Wi-Fi, and occasional Stack Overflow prayers.<br>	•	🚀 Dream: deploy something that doesn’t immediately crash.
 
 
 ## 🌐 Socials:
